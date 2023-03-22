@@ -1,0 +1,82 @@
+html{
+    font-family: 'Exo 2', sans-serif;
+}
+
+body{
+    background-color:#e0ebeb;
+    color: white;
+}
+
+header{
+    background-color:#ffcc99;
+    padding:20px;
+    margin: 0px;
+    text-align: center;
+    font-size: larger;
+}
+
+p{
+    color: white;
+    font-weight: bold;
+    background-color: lightpink;
+    border:  2px wheat;
+    border-radius: 20px;
+    font-size: larger;
+    text-align: center;
+    
+}
+
+table{
+    margin-left: 550px;
+    margin-top: 150px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 0 10px 20px black ;
+}
+
+.pantalla{
+    background-color: grey;
+    border: solid 5px grey;
+    border-radius: 20px;
+    margin-bottom: 2000px;
+}
+
+.pantallita{
+    background-color:lightcyan;
+    border-radius: 20px;
+    text-align: right;
+    width: auto;
+    height: 30px;
+    font-size: 15px;
+}
+
+.botones{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.num{
+    background-color:  black;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+.op{
+    background-color:lightgrey;
+    border-radius: 20px;   
+    display: flex;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.ac{
+    background-color:  red;
+    border-radius: 20px;
+    color: white;
+}
